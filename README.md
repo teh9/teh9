@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teh9&label=Profile%20views&color=0e75b6&style=flat" alt="teh9" /> </p>
 
-- 🔥 I’m active learning and using **Laravel, React**
+- 🔥 I’m active learning and using **Laravel**
 - 🔒 4 private repositories (3 **php**, 1 **python**)
 - 📌 1 public **javascript** repository 
 
