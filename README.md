@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Tengiz Gusev
 
-Junior PHP backend developer from Latvia. I started actively programming in 2018, before that I was just close with the IT field but didnt program. Today I am a strong junior developer. I am familiar and experienced in all stages of development, I can do manual testing of my products, configure web servers and deploy my applications at an amateur level.
+Junior PHP backend developer from Latvia. I started actively programming in 2018, before that I was just close with the IT field but didnt program. I am familiar and experienced in all stages of development, I can do manual testing of my products, configure web servers and deploy my applications at an amateur level.
 
 At this moment, I'am developing my own gambling project like https://ggdrop.com, https://easy-drop.co, https://mycsgoo.org -
 development is carried out both for the system itself and for the admin panel, for convenient and comfortable management of all the details of the project, today (06/11/22) the project is 50-55% ready, development began in early summer.
