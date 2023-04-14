@@ -1,9 +1,6 @@
 ### Hi 👋, I'm Tengiz Gusev
 
-PHP backend developer from Latvia. I started actively programming in 2018. Familiar and experienced in all stages of development.
-
-Actively developing since the beginning of June project like - https://ggdrop.com, https://easy-drop.co, https://mycsgoo.org -
-development is carried out both for the system itself and for the admin panel, for convenient and comfortable management of all the details of the project, today (30/01/23) the project is 65% ready.
+PHP backend developer from Latvia.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
