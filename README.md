@@ -21,6 +21,6 @@ development is carried out both for the system itself and for the admin panel, f
   <li><b>IDE</b>: PHPStorm, VSCode;</li>
 </ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teh9&" alt="teh9" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=teh9&show_icons=true" alt="teh9" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teh9&label=Profile%20views&color=0e75b6&style=flat" alt="teh9" /> </p>
